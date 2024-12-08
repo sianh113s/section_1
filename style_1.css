@@ -1,0 +1,21 @@
+#title {
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center;    /* Căn giữa theo chiều dọc */
+}
+
+#container .image{
+    margin: 10px;
+    height: 400px;
+    width: 250px;
+    border-radius: 10px; /* Bo góc ảnh */
+}
+
+
+.txt {
+    text-align: center; /* Chữ vào chính giữa */
+}
